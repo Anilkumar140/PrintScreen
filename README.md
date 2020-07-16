@@ -1,8 +1,8 @@
 # PrintScreen
 
-A Mendix widget to grab an element (or the whole screen) and write it to a PDF.
+A Mendix widget to grab an element (or the whole screen) and write it to a PDF.a
 
-This widget works by creating a screenshot of the specified target div and laying it onto a PDF. This happens 100% client side.
+This widget works by creating a screenshot of the specified target div and laying it onto a PDF.This happens 100% client side.
 
 ## Typical Usage
 
